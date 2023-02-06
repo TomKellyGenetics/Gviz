@@ -26,7 +26,7 @@ Encoding: UTF-8
 RoxygenNote: 7.2.0
 Roxygen: list(markdown = TRUE)
 Depends:
-    R (>= 4.2),
+    R (>= 4.1),
     methods,
     S4Vectors (>= 0.9.25),
     IRanges (>= 1.99.18),
